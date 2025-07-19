@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! 👋
+
+I am Khushi, a software developer based in India.
+
+I am currently working as SDE-1 at Jio Platforms Ltd., where I build scalable backend systems and APIs for Jio Health Hub app.
+I'm fascinated by large-scale, high-impact products and would love to contribute on high tech products as I grow in my career. I am also quite enthusiastic about Machine Learning and GenAI.
 
 <!--
 **khushinigam8/khushinigam8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
